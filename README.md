@@ -7,3 +7,5 @@ simple crashbot for discord servers / простой крашбот для се�
 4. 
 DONE!
 
+# if it returns an error
+*  then run the library.bat or rewrite the commands in cmd individually
