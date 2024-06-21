@@ -9,3 +9,4 @@ DONE!
 
 # if it returns an error
 *  then run the library.bat or rewrite the commands in cmd individually
+* если выдаёт ошибку то запустите library.bat или перепишите команды в cmd по отдельности
