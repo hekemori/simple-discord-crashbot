@@ -16,4 +16,4 @@ DONE!
 ## doesn't work anyway? / всё равно не работает?
 * try to find solutions on the Internet (a popular site in the EU region is stackoverflow. In the RU region - lolzteam, stackoverflow)
 
-попробуйте найти решения в интернете (популярный сайт в ЕС регионе - stackoverflow. В РУ регионе - lolzteam, stackoverflow)
+попробуйте найти решения в интернете (популярный сайт в ЕС регионе - stackoverflow. В ru регионе - lolzteam, stackoverflow)
